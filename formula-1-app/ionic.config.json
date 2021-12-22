@@ -1,0 +1,7 @@
+{
+  "name": "Formula1 App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
