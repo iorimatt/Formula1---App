@@ -16,3 +16,35 @@ export default defineComponent({
   }
 });
 </script>
+
+
+<style>
+
+
+
+#background-content {
+
+background: #15151E !important;
+
+
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+
+background: white;
+margin: 0 10px;
+
+}
+
+
+.swiper-pagination-bullet {
+
+
+width: 34px !important;
+height: 4px !important;
+border-radius: 0% !important;
+
+
+  
+}
+</style>
