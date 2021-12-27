@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Formula1 App",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

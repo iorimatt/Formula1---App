@@ -46,12 +46,14 @@ export default defineComponent({
 .TopBar {
   background-color: red;
   color: white;
+ 
 }
 
 .logoHome {
-  height: 80px;
+  height: 50px;
   width: 80px;
   padding: 0px;
+  margin: 0px;
 }
 
 .d-flex-end {
